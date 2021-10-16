@@ -2,6 +2,12 @@
 
 ![Design preview for the Four card feature section coding challenge](./design/desktop-preview.jpg)
 
+## Demo website
+
+This is a Frontend Mentor challenge developed by me, just having fun with HTML and SASS :)
+
+https://friendly-sinoussi-95ad19.netlify.app/
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
